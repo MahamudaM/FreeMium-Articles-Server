@@ -1,4 +1,4 @@
-# FreeMium-Articles
+# FreeMium Articles
 
 ## Live Link:  https://freemiumarticles.web.app/
 
@@ -32,7 +32,7 @@ mahamuda3052@gmail.com
 `Md Sifat Ur Rahman`\
 md.sifat.ur.rahman2702@gmail.com 
 
-`Md. Al Kafee`
+`Md. Al Kafee`\
 sojeebahmed.sa@gmail.com
 
 `MD. HAYATULLA BONY`
