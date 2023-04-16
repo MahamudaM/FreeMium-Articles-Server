@@ -1,7 +1,8 @@
-# FreeMium-Articles Server side
-
+# FreeMium-Articles
 
 ## Live Link:  https://freemiumarticles.web.app/
+
+
 
 ## Admin Info
 
@@ -13,6 +14,9 @@
 ## Client side Code
 
 ### https://github.com/MahamudaM/FreeMium-Articles-Client
+
+
+
 
 ## Team Member
 
@@ -29,5 +33,6 @@ mahamuda3052@gmail.com
 md.sifat.ur.rahman2702@gmail.com 
 
 `Md. Al Kafee`
+sojeebahmed.sa@gmail.com
 
 `MD. HAYATULLA BONY`
